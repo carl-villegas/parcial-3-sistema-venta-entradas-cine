@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "logica-2-grupo-4-2026-2"
+assignment: "parcial-3-sistema-venta-entradas"
+owner:
+  username: "carl-villegas"
+  id: 180609876
+  accepted_at: "2026-11-13T02:19:27Z"
+source:
+  owner: "logica-y-algoritmos-2-grupo-4-2026-2"
+  owner_id: 317408377
+  repo: "parcial-3-sistema-venta-entradas-cine-template"
+  branch: "main"
