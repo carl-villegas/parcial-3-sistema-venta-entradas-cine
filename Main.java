@@ -1,5 +1,13 @@
+import javax.swing.SwingUtilities;
+
 public class Main {
     public static void main(String[] args) {
-        // Implementa la solucion del parcial aqui.
+        SwingUtilities.invokeLater(new Runnable() {
+            @Override
+            public void run() {
+                VentanaCine ventana = new VentanaCine();
+                ventana.setVisible(true);
+            }
+        });
     }
 }
